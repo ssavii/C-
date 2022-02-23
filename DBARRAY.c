@@ -1,5 +1,5 @@
-# C-
-Database management using array of structure with operations Create, Display, Modify, Append, Search, Sort.
+// C-
+//Database management using array of structure with operations Create, Display, Modify, Append, Search, Sort.
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
